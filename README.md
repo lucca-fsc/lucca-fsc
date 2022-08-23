@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucca-fsc👋
 
-- 📚 Estou cursando o 9 semestre de Engenharia da Computação
+- 📚 Estou cursando o 10 semestre de Engenharia da Computação
 - 💹 Estudando para me tornar um profissional na área de Data Science
 
 <div align="center">
