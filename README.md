@@ -15,6 +15,7 @@ Sou entusiasta por Ciência de Dados e Inteligência Artificial, e busco constan
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucca-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Lucca-Python" height="30" width="40" src="https://www.oracle.com/a/ocom/img/pl-sql.svg">
 </div>
   
  ##
