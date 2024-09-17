@@ -1,6 +1,8 @@
 ### Olá, eu sou o Lucca-fsc👋
 
-- 📚 Formado como Engenheiro da computação e trabalhando como engenheiro de Software com 2 anos de experiência em desenvolvimento e migração de sistemas. Pleno em PL/SQL, com sólida experiência em projetos de grande porte, como a migração de um sistema Delphi para Oracle APEX. Possuo forte conhecimento em desenvolvimento de interfaces e manutenção de sistemas em produção.
+- 📚 Formado em Engenharia da Computação 
+- 🖥️ Trabalhando como engenheiro de Software em desenvolvimento e migração de sistemas.
+- 💡Pleno em PL/SQL, com sólida experiência em projetos de grande porte, como a migração de um sistema Delphi para Oracle APEX.
 
 Sou entusiasta por Ciência de Dados e Inteligência Artificial, e busco constantemente aprimorar meus conhecimentos nessas áreas. Estou aberto para explorar oportunidades desafiadoras que combinem meu conhecimento em desenvolvimento de software com técnicas de análise de dados e machine learning.o
 
